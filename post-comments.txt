@@ -1,0 +1,3 @@
+3.uzdevums
+Uztaisiet savu datu struktūru failā `posts-comments.php`, kas satur datus par bloga ierakstiem un to komentāriem.
+Mājiens: tam nepieciešama grupēta struktūra, jo katru ierakstu gribēsiet attēlot tikai vienu reizi.
